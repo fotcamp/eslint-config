@@ -1,0 +1,6 @@
+{
+  "name": "@fotcamp/eslint-config-base",
+  "version": "0.0.1",
+  "license": "MIT",
+  "packageManager": "yarn@4.4.0"
+}

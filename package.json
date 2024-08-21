@@ -1,0 +1,13 @@
+{
+  "name": "@fotcamp/eslint-config",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {},
+  "workspaces": {
+    "packages": [
+      "packages/**"
+    ]
+  },
+  "packageManager": "yarn@4.4.0"
+}
